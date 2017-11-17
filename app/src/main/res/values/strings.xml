@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">KotlinConvertThree</string>
+    <string name="nfc_turn_on">打开NFC</string>
+    <string name="nfc_turn_off">关闭NFC</string>
+</resources>
